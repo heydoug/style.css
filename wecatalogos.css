@@ -4,7 +4,7 @@ section { display: inline-block; }
 
 .parallax {
 display:none;
-font-family: &#39;Abel&#39;, sans-serif;
+font-family: 'Abel', sans-serif;
 font-weight:400;
 color:#FFF;
 margin: 0 auto;
@@ -39,7 +39,7 @@ margin-bottom: 30px;
 }
 
 article h1 {
-font-family: &#39;Abel&#39;, sans-serif;
+font-family: 'Abel', sans-serif;
 font-weight:400;
 font-size:40px;
 color:#fff;
@@ -90,7 +90,7 @@ display: inline-block;
 }
 
 .qwp-bottom h2 {
-font-family: &#39;Abel&#39;, sans-serif;
+font-family: 'Abel', sans-serif;
 font-weight:400;
 color:#fff;
 padding:50px 20px 50px 20px;
@@ -99,7 +99,7 @@ font-size:35px;
 }
 
 .qwp-bottom .tile:before {
-  content: &#39;&#39;;
+  content: '';
   background-color: rgba(15,15,15,0.5);
   display: block;
   width: 100%;
@@ -180,7 +180,7 @@ color:#111;
 
 
 #rodape-creditos {
-font-family: &#39;Abel&#39;, sans-serif;
+font-family: 'Abel', sans-serif;
 font-weight:400;
 font-size:14px;  
 text-transform:normal;
@@ -213,7 +213,7 @@ background:black;
 }
 
 #copyright h1 {
-font-family: &#39;Abel&#39;, sans-serif;
+font-family: 'Abel', sans-serif;
 font-weight:300;
 padding:01% 0 01% 0;
 text-align:center;
