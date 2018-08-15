@@ -164,6 +164,26 @@ font-size:30px;
   
 }
 
+@media (max-width: 320px) {
+
+article img {
+width:250px;
+max-width: 100%;
+height: auto;
+}
+
+article h1 {
+font-size:30px;
+}
+
+  .qwp-bottom .tile {
+    width: 100%;
+    min-height:10em;
+    line-height: 1.2;
+  }
+  
+}
+
 .copyright {
 position:absolute;
 bottom:0;
