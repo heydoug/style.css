@@ -126,17 +126,13 @@ font-size:35px;
   font-size: .75em;
 }
 
-.qwp-bottom .tile .textWrapper img {
+.qwp-bottom .tile:hover .textWrapper .content {
 margin:0 auto;
 width:50px;
 height:auto;
 }
 
 .qwp-bottom .tile .textWrapper .content {
-  display: none;
-}
-
-.qwp-bottom .tile:hover .textWrapper .content {
   display: block;
 }
 
