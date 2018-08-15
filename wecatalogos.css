@@ -126,7 +126,7 @@ font-size:35px;
   font-size: .75em;
 }
 
-.qwp-bottom .tile:hover .textWrapper .content {
+.qwp-bottom .tile:hover .textWrapper .content img {
 margin:0 auto;
 width:50px;
 height:auto;
