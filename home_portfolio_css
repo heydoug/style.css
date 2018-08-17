@@ -107,7 +107,6 @@ color:#fff;
 
 .qwp_header_grid {
   line-height: 0;
-  display:none;
 }
 .qwp_header_grid .qwp_tile {
   width:50.00%;
@@ -242,7 +241,6 @@ background-size: cover;
 background-attachment: fixed !important;
 -webkit-background-size: cover !important;
 background-size: cover !important;
-display:none;
 }
 
 .qwp_header_grid_tile img {
@@ -333,7 +331,6 @@ color:#fff;
 
 
 .qwp_header_services {
-display:none;
 width:100%;
 height:auto;
 background: #eee;
@@ -539,7 +536,6 @@ text-transform:uppercase;
 
 
 .qwp_contato {
-display:none;
 padding:05% 0 05% 0;
 width:100%;
 height:auto;
