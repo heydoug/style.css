@@ -107,6 +107,7 @@ color:#fff;
 
 .qwp_header_grid {
   line-height: 0;
+  display:none;
 }
 .qwp_header_grid .qwp_tile {
   width:50.00%;
@@ -241,6 +242,7 @@ background-size: cover;
 background-attachment: fixed !important;
 -webkit-background-size: cover !important;
 background-size: cover !important;
+display:none;
 }
 
 .qwp_header_grid_tile img {
@@ -331,6 +333,7 @@ color:#fff;
 
 
 .qwp_header_services {
+display:none;
 width:100%;
 height:auto;
 background: #eee;
@@ -403,7 +406,7 @@ padding:0 0 15% 0;
   overflow: hidden;
   position: relative;
   color:#fff;
-  font-family:'Verdana',sans-serif;
+  font-family:'Verdana', sans-serif;
   text-shadow: 2px 2px 2px #000;
   cursor: pointer; 
   cursor: hand;
@@ -477,7 +480,7 @@ padding:0 0 15% 0;
   overflow: hidden;
   position: relative;
   color:#333;
-  font-family:&quot;Verdana&quot;,sans-serif;
+  font-family:'Verdana', sans-serif;
   cursor: pointer; 
   cursor: hand;
 }
@@ -549,7 +552,7 @@ background-size: cover !important;
 }
 
 .qwp_contato h1 {
-font-family: &#39;Poppins&#39;, sans-serif;
+font-family: 'Poppins', sans-serif;
 text-align:center;
 font-size:30px;
 background-color: rgba(51,51,51,0.5);
